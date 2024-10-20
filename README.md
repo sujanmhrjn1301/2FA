@@ -3,5 +3,12 @@ This Node.js application allows users to log in using a username and password, s
 
 # Technical Requirements
 ## Software Requirements
-### Node.js: Ensure you have Node.js installed. This project is compatible with Node.js version 14 or higher.
-### NPM: Node Package Manager, which comes with Node.js.
+### Node.js: 
+Ensure you have Node.js installed. This project is compatible with Node.js version 14 or higher.
+### NPM: 
+Node Package Manager, which comes with Node.js.
+
+## Dependencies
+Install the following packages using npm:
+express: Fast, unopinionated, minimalist web framework for Node.js.
+```bash npm install express
