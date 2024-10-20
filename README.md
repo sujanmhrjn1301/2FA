@@ -37,6 +37,7 @@ USER_PHONE_NUMBER=<User_Phone_Number>
 ```
 
 ## Directory Structure
+```bash
 /project-root
 │
 ├── /public
@@ -48,3 +49,4 @@ USER_PHONE_NUMBER=<User_Phone_Number>
 ├── .gitignore
 ├── app.js
 └── package.json
+```
