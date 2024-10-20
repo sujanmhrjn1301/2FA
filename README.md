@@ -10,5 +10,8 @@ Node Package Manager, which comes with Node.js.
 
 ## Dependencies
 Install the following packages using npm:
-express: Fast, unopinionated, minimalist web framework for Node.js.
-```bash npm install express
+1. ### express: #### Fast, unopinionated, minimalist web framework for Node.js.
+```bash
+npm install express
+```
+2. body-parser: Middleware to parse incoming request bodies.
