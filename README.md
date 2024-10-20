@@ -47,6 +47,26 @@ USER_PHONE_NUMBER=<User_Phone_Number>
 │
 ├── .env
 ├── .gitignore
-├── app.js
+├── server.js
 └── package.json
 ```
+## Getting Started
+1. Clone the Repository
+2. ```bash
+   git clone https://github.com/sujanmhrjn1301/2FA.git
+   ```
+3. Install Dependencies
+   ```bash
+   npm install
+   ```
+5. Set up Environment Variables
+   Create a .env file in the project root and add your Twilio credentials.
+7. Start the sever.js
+   ```bash
+   node server.js
+   ```
+## Security Considerations
+1. Keep your .env file confidential and do not share it publicly or include it in version control.
+2. Ensure that any sensitive data, such as the Twilio credentials and phone numbers, are handled securely.
+
+   
